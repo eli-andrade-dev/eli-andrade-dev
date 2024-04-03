@@ -4,7 +4,7 @@
 - 🌱 Iniciei meus estudos na programação em 2023 e estou em transição de carreira.
 - 💞️ Meus principais interesses estão focados em adquirir habilidades em Desenvolvimento Web Front-End e posteriormente, Desenvolvimento Mobile.
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+   ![Elisangela's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli-andrade-dev&show_icons=true&theme=radical)
   <br>
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
