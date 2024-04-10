@@ -6,7 +6,7 @@
 
    ![Elisangela's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli-andrade-dev&show_icons=true&theme=radical)
   <br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli-andrade-dev&hide_progress=true)
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisangela-andrade-2b7053224/)
    [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](elisangelaandrade890@gmail.com)
